@@ -24,7 +24,7 @@ export default class SearchScreen extends React.Component {
                 <div className="errres">
                     <div className="mainerr">
                         <p className="errtxt">
-                            Sorry Nothing Found Please Search Again
+                            Sorry Nothing Found Please Search Again visit www.edapazhassimedia.ml for movies
                        </p>
                         <Link to={'../'}>
                             <p className="activityb errsc">Search</p>
@@ -51,7 +51,7 @@ export default class SearchScreen extends React.Component {
                                 </Link>
                                 <span>&nbsp;&nbsp;</span>
                                 <Link to={`../play/${songs.id}`}>
-                                    <span className="activityb">Play</span>
+                                    <span className="activityb">Play song</span>
                                 </Link>
                             </p>
                         </div>
@@ -59,11 +59,11 @@ export default class SearchScreen extends React.Component {
 
                     <div className="footerdiv">
                         <img alt="Musicder" className="center" src="./img/logo.png" width="230" height="92" />
-                        <a className="atextdec" href={`https://github.com/cachecleanerjeet`}>
-                            <p className="paragone" >An Open Source Project by Tuhin</p>
+                        <a className="atextdec" href={`https://edapazhassimedia.blogspot.com`}>
+                            <p className="paragone" >© 2021 EDAPAZHASSI MEDIA, Inc</p>
                         </a><br />
-                        <a href={`https://github.com/cachecleanerjeet/Musicder`}>
-                            <img alt="Github" className="center" src="./img/github-white.svg" width="30" height="30" /><br />
+                        <a href={`https://edapazhassimedia.blogspot.com`}>
+                            <img alt="Edapazhassi media" className="center" src="./img/github-white.svg" width="30" height="30" /><br />
                         </a>
                     </div>
                 </div>
