@@ -3,8 +3,8 @@
   <a href="https://github.com/cachecleanerjeet/Musicder"><img src="https://telegra.ph/file/d1ca7db1f19ee64ad150c.png" alt="Musicder" width="300"></a>
  <br>
 <p>
-  <a href="https://www.codefactor.io/repository/github/cachecleanerjeet/musicder">
-    <img src="https://www.codefactor.io/repository/github/cachecleanerjeet/musicder/badge"
+  <a href="https://www.codefactor.io/repository/github/cinemafactory2/music">
+    <img src="https://www.codefactor.io/repository/github/cinemafactory2/music/badge"
          alt="Codefactor">
   </a>
     <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fcachecleanerjeet%2FMusicder?ref=badge_shield">
@@ -28,10 +28,10 @@
 
 ### Note :
 *This project has been swifted to React. Old musicder will be available here 👇*<br>
-<code>https://github.com/cachecleanerjeet/musicder-native</code>
+<code>https://github.com/cinemafactory2/musicder</code>
 
 ### Read This :
-*This is not the full source code which is used in <code>https://musicder.net</code>. Use <code>https://musicder.net</code> to download songs with metadata.*<br>
+*This is not the full source code which is used in <code>https://musicder.ml</code>. Use <code>https://musicder.ml</code> to download songs with metadata.*<br>
 
 ### Features :
 *1. Free.*<br>
