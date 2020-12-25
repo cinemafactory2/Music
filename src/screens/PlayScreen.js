@@ -49,7 +49,7 @@ export default class PlayScreen extends React.Component {
                 <div className="errres">
                     <div className="mainerr">
                         <p className="errtxt">
-                            Sorry Nothing Found Please Search
+                            Sorry Nothing Found Please Search | visit www.edapazhassimedia.ml for movies
                        </p>
                         <Link to={'../'}>
                             <p className="activityb errsc">Search</p>
