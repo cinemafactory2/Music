@@ -36,7 +36,6 @@ export default class MainScreen extends React.Component {
                                 <Link to={`search?query=${this.state.searchQuery}`}>
                                     <button className="btn-search" type="button">SEARCH</button>
                                 </Link>
-<meta name="propeller" content="1afee870f60461115d23034d3914a588">
                             </div>
                         </div>
                     </form>
