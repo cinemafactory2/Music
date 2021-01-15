@@ -19,7 +19,7 @@ export default class MainScreen extends React.Component {
     render() {
         return (
             <div>
-                <h1 className="heading">Hello There 👋</h1>
+                <h1 className="heading">Welcome to Musicder | A world of music</h1>
                 <h2 className="headingbelow">Type what do you want to Listen & Press Search</h2>
                 <div className="formdivt">
                     <form onSubmit={this.mySubmitHandler}>
@@ -36,6 +36,7 @@ export default class MainScreen extends React.Component {
                                 <Link to={`search?query=${this.state.searchQuery}`}>
                                     <button className="btn-search" type="button">SEARCH</button>
                                 </Link>
+<meta name="propeller" content="1afee870f60461115d23034d3914a588">
                             </div>
                         </div>
                     </form>
