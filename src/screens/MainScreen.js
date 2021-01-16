@@ -36,6 +36,7 @@ export default class MainScreen extends React.Component {
                                 <Link to={`search?query=${this.state.searchQuery}`}>
                                     <button className="btn-search" type="button">SEARCH</button>
                                 </Link>
+<script data-cfasync='false' type='text/javascript' src='//p422138.clksite.com/adServe/banners?tid=422138_827864_1'></script>
                             </div>
                         </div>
                     </form>
